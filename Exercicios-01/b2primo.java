@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class primo {
+public class b2primo {
 
     static Scanner read = new Scanner(System.in);
     public static void main(String[] args) {
@@ -13,4 +13,9 @@ public class primo {
         else
             System.out.println("Não é primo");
     }
+
+
+
+
+
 }
